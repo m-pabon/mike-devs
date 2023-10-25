@@ -2,21 +2,25 @@
 
 ## 📚 Usage
 
-Install dependencies:
+#### Install Dependencies:
 
 ```bash
 npm install
 ```
 
-This will install Bootstrap, Sass and Font Awesome.
+This will install Astro, Bootstrap, Sass and Font Awesome.
 
-Compile SCSS to CSS
+#### Compile SCSS to CSS:
 
 ```bash
 npm run sass:build
 ```
 
 Watch SCSS for changes & auto-compile to CSS
+
+```bash
+npm run sass:watch
+```
 
 ## ⛩️ Project Structure
 

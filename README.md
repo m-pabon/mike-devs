@@ -8,19 +8,9 @@
 npm install
 ```
 
-This will install Astro, Bootstrap, Sass and Font Awesome.
+#### Development Shorthand Workflow:
 
-#### Compile SCSS to CSS:
-
-```bash
-npm run sass:build
-```
-
-Watch SCSS for changes & auto-compile to CSS
-
-```bash
-npm run sass:watch
-```
+This project makes use of [concurrently]()
 
 ## ⛩️ Project Structure
 

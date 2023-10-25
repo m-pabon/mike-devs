@@ -10,7 +10,7 @@ npm install
 
 #### Development Shorthand Workflow:
 
-This project makes use of [concurrently](https://www.npmjs.com/package/concurrently) which allows us to run both of our dev commands in a single command. This is place in an npm script called `start` so it can be run as follows:
+This project makes use of [concurrently](https://www.npmjs.com/package/concurrently) which allows us to run both of our dev commands in a single command. This is placed in an npm script called `start` so it can be run as follows:
 
 ```bash
 npm start

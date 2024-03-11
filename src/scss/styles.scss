@@ -7,3 +7,20 @@ body {
 .headlines li a{
   border-bottom: 1px dotted #ACBAC7;
 }
+
+.python-badge {
+  background-color: #FEDD54;
+  color: var(--bs-dark);
+}
+.astro-badge{
+  background-color: #2D2564;
+}
+.strapi-badge{
+  background-color: #AC56F5;
+}
+.bootstrap-badge{
+  background-color: #6F2CF4;
+}
+.shopify-badge{
+  background-color: #95BF46;
+}

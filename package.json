@@ -1,23 +1,36 @@
 {
-  "name": "astro-bootstrap-starter",
+  "name": "",
   "type": "module",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "scripts": {
     "dev": "astro dev",
-    "start": "concurrently \"npm:dev\" \"npm:sass:watch\"",
-    "build": "astro build",
+    "dev:network": "astro dev --host",
+    "build": "astro check && astro build",
     "preview": "astro preview",
+    "preview:network": "astro preview --host",
     "astro": "astro",
-    "sass:build": "sass --no-source-map src/scss:src/css",
-    "sass:watch": "sass --no-source-map --watch src/scss:src/css"
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
   },
   "dependencies": {
-    "astro": "^3.3.4"
-  },
-  "devDependencies": {
-    "@fortawesome/fontawesome-free": "^6.4.0",
-    "bootstrap": "^5.3.0",
-    "concurrently": "^8.2.2",
-    "sass": "^1.62.0"
+    "@astrojs/check": "^0.5.9",
+    "@astrojs/mdx": "^2.2.0",
+    "@astrojs/rss": "^4.0.5",
+    "@astrojs/sitemap": "^3.1.1",
+    "@astrojs/tailwind": "^5.1.0",
+    "@fontsource/inter": "^5.0.17",
+    "@fontsource/lora": "^5.0.16",
+    "@tailwindcss/typography": "^0.5.10",
+    "@typescript-eslint/eslint-plugin": "^7.3.1",
+    "@typescript-eslint/parser": "^7.3.1",
+    "astro": "^4.5.6",
+    "clsx": "^2.1.0",
+    "eslint": "^8.57.0",
+    "eslint-plugin-astro": "^0.32.0",
+    "eslint-plugin-jsx-a11y": "^6.8.0",
+    "sharp": "^0.33.3",
+    "tailwind-merge": "^2.2.2",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5.4.2"
   }
 }

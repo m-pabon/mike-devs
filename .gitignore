@@ -1,5 +1,6 @@
 # build output
 dist/
+
 # generated types
 .astro/
 
@@ -12,10 +13,6 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
-# IDEs
-.vscode/
-.idea/
-
 
 # environment variables
 .env
@@ -24,5 +21,6 @@ pnpm-debug.log*
 # macOS-specific files
 .DS_Store
 
-# Compiled css
-src/css/
+# IDE's
+.vscode
+.idea

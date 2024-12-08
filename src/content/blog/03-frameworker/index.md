@@ -61,7 +61,7 @@ I think the best projects don't come from cloning other projects. They come from
 ### Learn Fundies
 The best way to learn you programming language is to *build with it*. But the best way to learn your fundamentals is to well...learn your fundamentals. Believe it or not, solving real problems does sometimes require the use of data structures and algorithms and some of those other things you might have skipped or breezed over.
 
-I used to say back when I was in school "oh when I encounter a problem that requires graphs I'll just KNOW that and then just google Djikstra's algorithm. It turns out this is so much easier said than done. It can be a true challenge to even recognize that your problem suits a graph focused approach and even harder if you manage to realize that to then apply the theory. This applies with every computer science fundamental.
+I used to say back when I was in school "oh when I encounter a problem that requires graphs I'll just KNOW that and then just google Dijkstra's algorithm. It turns out this is so much easier said than done. It can be a true challenge to even recognize that your problem suits a graph focused approach and even harder if you manage to realize that to then apply the theory. This applies with every computer science fundamental.
 
 Anyways there's this nifty [site](https://teachyourselfcs.com/) . It's been a great resource for diving deep on foundational topics in computer science. My approach was to start with the [nand2tetris](https://www.nand2tetris.org/) course they mentioned. It covers building a computer from scratch and my thought is that maybe during the journey I'll find a niche that I'll hit that I may want to dive deeper on, like compilers, or operating systems, or etc.
 

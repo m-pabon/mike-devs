@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Being a Frameworker"
 description: "Break free from the shackles"
-date: "Dec 07 2024"
+date: "Dec 08 2024"
 ---
 In my software engineering class in college my teacher gave a speech at the end of our very last class that I didn't quite understand at the time. In hindsight, well into my career, it finally clicked and made sense to me. The speech he gave essentially described two kinds of software engineers: 
 
